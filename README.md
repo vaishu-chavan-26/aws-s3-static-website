@@ -15,7 +15,7 @@ This project demonstrates how to host a static website on AWS S3 and automate fi
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](images/architecture.png)
+![Architecture](screenshot/architecture.png)
 
 ---
 
@@ -23,19 +23,19 @@ This project demonstrates how to host a static website on AWS S3 and automate fi
 
 ### 🌐 Live Website
 
-![Website](images/website.png)
+![Website](screenshot/website.png)
 
 ### 📦 S3 Bucket (Objects)
 
-![S3 Bucket](images/s3-bucket.png)
+![S3 Bucket](screenshot/s3-bucket.png)
 
 ### ⚙️ Static Website Hosting
 
-![Hosting](images/hosting.png)
+![Hosting](screenshot/hosting.png)
 
 ### 🤖 boto3 Automation
 
-![Boto3](images/boto3-upload.png)
+![Boto3](screenshot/boto3-upload.png)
 
 ---
 
@@ -71,7 +71,7 @@ This project demonstrates how to host a static website on AWS S3 and automate fi
 .
 ├── index.html
 ├── upload.py
-├── images/
+├── screenshot/
 │   ├── architecture.png
 │   ├── website.png
 │   ├── s3-bucket.png
