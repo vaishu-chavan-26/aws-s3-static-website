@@ -15,7 +15,7 @@ This project demonstrates how to host a static website on AWS S3 and automate fi
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](screenshot/architecture.png)
+![Architecture](screenshot/architechture.png)
 
 ---
 
